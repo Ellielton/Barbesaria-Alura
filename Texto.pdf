@@ -1,0 +1,18 @@
+                            Resumo de imagem em diante.
+        
+Width
+    E a largura da pagina ou elemento pode ser expresaado como px ou %.
+Padding
+    cria uma espaçamento interno em volta das bordas. ex.: Padding:top, left,heigth, bottom, solid, cor.
+
+Margin
+    Cria o mesmo efeito anterior porém ao redor na area externa do elemento e é declarada da mesma forma.
+    Criarf uma caiza e aplicar esse efeitos para fixaxr melhor.
+ 
+
+Comportamentos do display:
+    block: e o comportamenfo que ocupa toda a linha e os proximos carfacters seram escritos na linha abaixo. A exemplo são as listas.
+
+   inline: uma imagem se comporta como elemento inline porque deixa colocar contudo ao seu lado.Porém não aceita edicação do espaçamentos Padding e Margin.
+
+    Elemetos podem ter as duas caracteristicas sendo inline e block, assim aceitfando juntar elementos lado a lado e aceita edição de magein e Padding. Mas por padrão sao alinhados elementos pela base.
