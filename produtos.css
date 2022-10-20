@@ -44,7 +44,6 @@ nav a:hover {
     text-align: center;
     width: 30%;
     vertical-align: top;
-    background-color: #cccccc;
     margin: 0 1.5%;  /* espaço entre os elementos da lista*/
     padding: 30px 20px; /*ver esse o border-box com mais detalhes*/
     box-sizing: border-box;
@@ -77,4 +76,10 @@ font-weight:bold ;
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
+}
+
+footer{
+    text-align: center;
+    background-image: url(img/bg.jpg);
+    padding: 40px 0;
 }
