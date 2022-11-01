@@ -1,18 +1,59 @@
+header{
+    background-color: black;
+    height: 300px;
+}
+.container{
+    background-color: #bbbbbb;
+}
+
 #banner{
     width: 100%;
 }
+
+.caixa{
+    width: 940px;
+    margin:0 auto;
+    position: relative;
+    background-color: #bbbbbb;
+
+}
 .principal{
     background-color: #cccccc;
-    padding: 30px;    
+    padding: 20px;    
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+
+}
+
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
 }
 
 .titulo-principal{
+    text-align: center;
     padding-left: 20px;
+    padding: 30px;
+    background-color: black;
+    color: antiquewhite;
+
 
 }
 
 .titulo-centralizado{
-    text-align: center; 
+    text-align: center;
 }
 
 p{
@@ -42,7 +83,7 @@ em strong{
     
 }
 
-ul {
+.lista-itens {
     display: inline-block;
     vertical-align: top;
     width: 20%;
